@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "62f247e7b4ede484d0a47a26"
+  },
+  "email": "test@gmail.com",
+  "__v": 0,
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6eyJlbWFpbCI6InRlc3RAZ21haWwuY29tIn0sImFsZ29yaXRobSI6IkhTMjU2IiwiZXhwIjoxNjYwNDA4Njc2LCJpYXQiOjE2NjAwNDcyMzZ9.DiVx5w2G_37iDKeIiZGmx3HbOLWe9U-X9Cfc5PF39b4",
+  "createdAt": {
+    "$date": "2022-08-09T11:41:27.683Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-09T12:13:56.475Z"
+  }
+}]

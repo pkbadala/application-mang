@@ -1,0 +1,14 @@
+{
+  "rootUrl": "http://example/",
+  "apiUrl": "http://example/wp-json/",
+  "apiAWSUrl": "https://example.amazonaws.com/api/",
+  "imageUrl": "http://example/",
+  "formApiUrl": "http://example/wp-admin/",
+  "port": "4072",
+  "accessKey": "XXXXXXXXXXXXXXXXXXXXXX",
+  "secretKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "region": "us-east-1",
+  "baseSiteURL" : "https://www.example.com",
+  "siteURL" : "www.example.com",
+  "baseVersion" : "1.2"
+}
